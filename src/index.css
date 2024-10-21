@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body{
+    margin: 0px;
+
+}
+
+.screen90{
+    height: 80vh;
+}
+
+.navBorder{
+    border-bottom: 1px solid darkgray;
+}
+
+.font-x{
+    font-size: 14px;
+}
+
+.font-xx{
+    font-size: 12px;
+}
